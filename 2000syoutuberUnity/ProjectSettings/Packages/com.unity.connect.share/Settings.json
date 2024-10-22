@@ -4,7 +4,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/User/Desktop/webgl;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/User/Desktop/phonewebgl;C:/Users/User/Desktop/yasawebgl;C:/Users/User/Desktop/webgl;;;;;;;\"}"
             }
         ]
     }
