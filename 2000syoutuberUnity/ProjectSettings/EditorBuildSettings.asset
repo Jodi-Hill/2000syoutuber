@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Emily's Phone.unity
     guid: 0abb198e32713b947b70b4cf43e412d7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Logged in phone.unity
     guid: 726aa118af85bde48971cc46c7d7a7ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/YASA website.unity
     guid: 765a02462acbb5e429c451ba9d0a83d6
   m_configObjects: {}
